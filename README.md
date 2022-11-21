@@ -1,4 +1,4 @@
-# overlap_alignment
+# OverlapAlignment
 An algorithm for overlap alignment with affine gap penalties
 
 
